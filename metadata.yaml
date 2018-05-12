@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41145'
     url: http://www.gutenberg.org/2009/agents/41145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41372#Willis-s-Current-NotesVolume-2-February-Issue
 gutenberg_issued: '2012-11-16'
 gutenberg_type: Text
 identifiers:
